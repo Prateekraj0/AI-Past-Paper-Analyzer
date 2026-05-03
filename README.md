@@ -41,6 +41,8 @@ past-paper-analyzer/
 
 ---
 
+Link for paper_dataset = https://drive.google.com/drive/folders/1FGa6H2XKllTCJC73m2DonyUpz1_xnUHh?usp=sharing
+
 ## 🚀 Quick Start
 
 ### 1. Install dependencies
@@ -93,7 +95,8 @@ Your app will be live at a public URL instantly.
 
 ---
 
-## 🎬 Demo Flow
+## 🎬 Demo Video
+https://drive.google.com/file/d/1fLmLFY5mu-q_Kf-YqvJFdJBUU_K2AaNW/view?usp=sharing
 
 1. Open the sidebar → set **Days left** and **Study hours/day**
 2. Click **🚀 Run Analysis**
@@ -103,13 +106,3 @@ Your app will be live at a public URL instantly.
 
 ---
 
-## ⚠️ Constraints & Design Decisions
-
-- No ML models – pure keyword frequency analysis
-- No external APIs required
-- Works entirely offline after installation
-- Simple, clean, and fast
-
----
-
-*"This tool helps students focus only on high-impact topics and saves hours of manual analysis."*
