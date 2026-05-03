@@ -1,0 +1,7 @@
+{
+  "Unit 1: Linear Data Structures": ["Arrays", "Linked List", "Doubly Linked List", "Circular Linked List"],
+  "Unit 2: Stack & Queue": ["Stacks", "Queues", "Priority Queue", "Deque"],
+  "Unit 3: Trees": ["Trees", "Binary Tree", "Binary Search Tree", "AVL Tree", "Heap"],
+  "Unit 4: Graphs": ["Graphs", "BFS", "DFS", "Shortest Path", "Spanning Tree"],
+  "Unit 5: Sorting & Searching": ["Sorting", "Searching", "Binary Search", "Quick Sort", "Merge Sort", "Bubble Sort"]
+}
